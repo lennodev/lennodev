@@ -4,7 +4,7 @@
 # Hi there! My name is Lenno. <img src="https://raw.githubusercontent.com/lennodev/lennodev/main/wave.gif" width="30px"> 
 <p align='center'>
 
-I'm a full stack developer. I'm passionate about learning the new technologies. Developing something new and interesting always make me fully satisfied!
+I'm a full stack developer. I'm passionate about learning new technologies and excited about developing innovative ideas.
 Stay Hungry, Stay Foolish! 
 
 I'm from Hong Kong, and currently working as a System Analyst. You can find me on [![LinkedIn][2.2]][2].
